@@ -52,9 +52,28 @@ if __name__ == "__main__":
     print(solve())
 
 ---
+```
+## ✅ Результат выполнения программы
 
-## Результат выполнения программы
-<img width="757" height="92" alt="image" src="https://github.com/user-attachments/assets/6b29c6a6-4d8c-4740-acca-45eacb27fb60" />
+### Входные данные:
 
----
+<img width="712" height="65" alt="image" src="https://github.com/user-attachments/assets/b7de2d8f-6b7d-496e-95df-e0a1d7c943fd" />
+
+
+```
+```
+### Ход решения:
+```
+- A = 54 = 2¹ × 3³
+- B = 60 = 2² × 3¹ × 5¹
+- Для p = 2: n = ceil(1/2) = 1
+- Для p = 3: n = ceil(3/1) = 3
+- Ответ: max(1, 3) = 3
+
+```
+### Выходные данные:
+
+<img width="751" height="62" alt="image" src="https://github.com/user-attachments/assets/9e6eba3c-6a5b-4d14-bde9-67129e482b30" />
+
+```
 
